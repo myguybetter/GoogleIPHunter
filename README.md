@@ -1,6 +1,6 @@
 # Google IP Hunter
 
-This project is mainly for collecting global google ips. Mostly Google Global Cache IPs (GGC), also with Official IPs.
+This project is mainly for collecting global google ipv4 ips. Mostly Google Global Cache IPs (GGC), also with Official IPs.
 
 GGC only provides with two kinds of certificates (gws - google.com & gvs - googlevideo.com).
 
