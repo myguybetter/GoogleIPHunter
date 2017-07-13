@@ -1,5 +1,5 @@
-China, Total: 21 (7 not listed)
-PS: For protecting some CERNET IPs(usually for academic use only) and avoid using some personal port-mapping IPs (for security reasons), I didn't list all.
+China, Total: 21 (some not listed)
+PS: Didn't list all because of protecting some CERNET IPs(usually for academic use only) and avoid using some personal port-mapping IPs (for security reasons).
 58.63.254.0/24
 59.173.16.0/24
 61.49.51.0/24
