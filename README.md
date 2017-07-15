@@ -20,7 +20,7 @@ Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogot
 
 ### 1. Asia Pacific (56 checked)
 
-- 43 Having GGC Countries & Areas
+- 43 Owning GGC Countries & Areas
 
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
