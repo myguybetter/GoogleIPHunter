@@ -1,6 +1,6 @@
 # Google IP Hunter
 
-![progress](http://progressed.io/bar/25?title=progress)
+![progress](http://progressed.io/bar/27?title=progress)
 
 This project, GoogleIPHunter, is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC), also with Official IPs.
 
@@ -18,9 +18,9 @@ Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogot
 
 ## Current Progress
 
-Checked Countries & Areas: 51 (24.6 %)
+### 1. Asia Pacific (56 checked)
 
-### Asia Pacific
+- 43 Having GGC Countries & Areas
 
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -40,4 +40,4 @@ Checked Countries & Areas: 51 (24.6 %)
 | Indonesia  | 84 | Oman        |  4 | Yemen               |  1 |
 | Iraq       | 68 |
 
-- No GGC Countries & Areas: Afghanistan, Iran, Myanmar, North Korea, Saudi Arabia, Syria, Tajikistan, Timor-Leste, Turkmenistan, Uzbekistan. Total: 10
+- 13 No GGC Countries & Areas: Afghanistan, British Indian Ocean Territory, Christmas Island, Cocos Islands, Iran, Myanmar, North Korea, Saudi Arabia, Syria, Tajikistan, Timor-Leste, Turkmenistan, Uzbekistan.
