@@ -40,8 +40,6 @@ Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogot
 | Indonesia  | 84 | Oman        |  4 | Yemen               |  1 |
 | Iraq       | 68 |
 
-- 13 No GGC Countries & Areas
-
-Afghanistan, British Indian Ocean Territory, Christmas Island, Cocos Islands, Iran, Myanmar, North Korea, Saudi Arabia, Syria, Tajikistan, Timor-Leste, Turkmenistan, Uzbekistan.
+- 13 No GGC Countries & Areas: Afghanistan, British Indian Ocean Territory, Christmas Island, Cocos Islands, Iran, Myanmar, North Korea, Saudi Arabia, Syria, Tajikistan, Timor-Leste, Turkmenistan, Uzbekistan.
 
 <sup>1</sup> Most ips of this country couldn't be used due to 404 error (not found).
