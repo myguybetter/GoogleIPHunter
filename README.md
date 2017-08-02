@@ -31,7 +31,7 @@ Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogot
 | Bhutan     |  1 | Kuwait      | 20 | Russia             | 321 |
 | Brunei     |  2 | Kyrgyzstan  | 10 | Singapore           | 14 |
 | Cambodia   | 23 | Laos        |  4 | South Korea         | 49 |
-| China      | 21 | Lebanon     | 20 | Sri Lanka           |  6 |
+| China<sup>1</sup>    | 21 | Lebanon     | 20 | Sri Lanka           |  6 |
 | Cyprus     | 5  | Macao       |  3 | Taiwan              | 59 |
 | Egypt      | 22 | Malaysia    | 35 | Thailand            | 75 |
 | Georgia    | 11 | Maldives    |  3 | Turkey              |  1 |
@@ -40,4 +40,8 @@ Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogot
 | Indonesia  | 84 | Oman        |  4 | Yemen               |  1 |
 | Iraq       | 68 |
 
-- 13 No GGC Countries & Areas: Afghanistan, British Indian Ocean Territory, Christmas Island, Cocos Islands, Iran, Myanmar, North Korea, Saudi Arabia, Syria, Tajikistan, Timor-Leste, Turkmenistan, Uzbekistan.
+- 13 No GGC Countries & Areas
+
+Afghanistan, British Indian Ocean Territory, Christmas Island, Cocos Islands, Iran, Myanmar, North Korea, Saudi Arabia, Syria, Tajikistan, Timor-Leste, Turkmenistan, Uzbekistan.
+
+<sup>1</sup> Most ips of this country couldn't be used due to 404 error (not found).
