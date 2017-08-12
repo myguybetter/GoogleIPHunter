@@ -8,7 +8,7 @@ GGC IPs provide with two kinds of certificates (gws - google.com & gvs - googlev
 
 You can check Google's Official GGC Distribution Map here: https://peering.google.com/#/infrastructure
 
-Caution: You could fork this project yourself, but please DO NOT distribute these contents to any other sites, or I would delete this repository. Thank you.
+**Caution: You could fork this project yourself, but please DO NOT distribute these contents to any other sites, or I would delete this repository. Thank you.**
 
 ## How do you hunt for them?
 
