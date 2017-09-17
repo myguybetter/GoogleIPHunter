@@ -1,6 +1,6 @@
 # Google IP Hunter
 
-![progress](http://progressed.io/bar/34?title=progress)
+![progress](http://progressed.io/bar/40?title=progress)
 
 This project, GoogleIPHunter, is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC), also with Official IPs.
 
@@ -55,4 +55,13 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Bermuda			| 1 | Grenada		| 1 | Puerto Rico		   | 10 |
 | Canada		  | 106 | Guatemala		| 6 | Trinidad and Tobago	| 6 |
 | Cayman Islands	| 2 | Haiti			| 3 | United States (GGC) | 349 |
-| Costa Rica	   | 13 | Honduras		| 8 | U.S. Virgin Islands	| 1 |
+| Costa Rica	   | 13 | Honduras		| 8 | U.S. Virgin Islands	| 1 
+
+### 3. South America: 11 Countries/Areas
+
+| Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Argentina	| 109 | Colombia	| 30 | Suriname	| 1 |
+| Bolivia	| 9 | Ecuador		| 32 | Uruguay	| 3 |
+| Brazil	| 599 | Paraguay	| 5 | Venezuela	| 1 |
+| Chile		| 43 | Peru			| 26 |
