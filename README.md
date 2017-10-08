@@ -4,7 +4,7 @@
 
 This project, GoogleIPHunter, is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC), also with Official IPs.
 
-GGC IPs provide with 3 kinds of certs, including "google.com (these ones could be applied to hosts)", "*.googlevideo.com" and "edgestatic.com".
+GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**.
 
 You can check Google's Official GGC Distribution Map here: https://peering.google.com/#/infrastructure
 
