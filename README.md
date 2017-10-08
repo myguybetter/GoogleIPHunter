@@ -81,6 +81,6 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Czech		| 15 | Latvia		| 10 | Spain		| 31 |
 | Denmark		| 30 | Lithuania	| 16 | Sweden	| 29 |
 | Estonia		| 3 | Luxembourg	| 1 | Ukraine	| 1 |
-| Finland		| 9 | Macedonia		| 5 |
-| France		| 25 | Moldova		| 7 |
+| Finland		| 9 | Macedonia		| 5 | Malta		| 6 |
+| France		| 25 | Moldova		| 7 | Switzerland	| 19 |
 | Germany		| 33 | Monaco		| 1 |
