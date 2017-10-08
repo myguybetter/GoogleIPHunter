@@ -1,6 +1,6 @@
 # Google IP Hunter
 
-![progress](http://progressed.io/bar/40?title=progress)
+![progress](http://progressed.io/bar/61?title=progress)
 
 This project, GoogleIPHunter, is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC), also with Official IPs.
 
@@ -30,7 +30,7 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Azerbaijan		| 14 | Japan		| 40 | Palestine		| 8  |
 | Bahrain		| 10 | Jordan		|  9 | Philippines		| 32 |
 | Bangladesh		| 70 | Kazakhstan	| 38 | Qatar			|  6 |
-| Bhutan		|  1 | Kuwait		| 20 | Russia			| 321 |
+| Bhutan		|  1 | Kuwait		| 20 | Russia			| 326 |
 | Brunei		|  2 | Kyrgyzstan	| 10 | Singapore		| 14 |
 | Cambodia		| 23 | Laos		|  4 | South Korea		| 49 |
 | China<sup>1</sup>	| 21 | Lebanon		| 20 | Sri Lanka		|  6 |
@@ -54,7 +54,7 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Belize	| 1 | EI Salvador	| 5 | Panama		 | 9 |
 | Bermuda	| 1 | Grenada		| 1 | Puerto Rico	 | 10 |
 | Canada	| 106 | Guatemala	| 6 | Trinidad and Tobago| 6 |
-| Cayman Islands| 2 | Haiti		| 3 | United States (GGC)| 349 |
+| Cayman Islands| 2 | Haiti		| 3 | United States (GGC)| 354 |
 | Costa Rica	| 13 | Honduras		| 8 | U.S. Virgin Islands| 1 |
 
 ### 3. South America: 11 Countries/Areas
@@ -65,3 +65,22 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Bolivia	| 9 | Ecuador		| 32 | Uruguay	| 3 |
 | Brazil	| 599 | Paraguay	| 5 | Venezuela	| 11 |
 | Chile		| 43 | Peru		| 26 |
+
+### 4. Europe: 41 Countries/Areas
+
+| Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Aland			| 1 | Greece	| 11 | Montenegro	| 1 |
+| Albania		| 7 | Guernsey	| 1 | Netherlands	| 15 |
+| Austria		| 19 | Hungary	| 16 | Poland		| 73 |
+| Belarus		| 4 | Iceland	| 8 | Portugal		| 13 |
+| Belgium		| 5 | Ireland	| 8 | Romania		| 26 |
+| Bosnia and Herzegovina		| 8 | Isle of Man	| 1 | Serbia		| 18 |
+| Bulgaria		| 24 | Italy	| 28 | Slovak		| 12 |
+| Croatia	| 5 | Jersey		| 1 | Slovenia		| 7 |
+| Czech		| 15 | Latvia		| 10 | Spain		| 31 |
+| Denmark		| 30 | Lithuania	| 16 | Sweden	| 29 |
+| Estonia		| 3 | Luxembourg	| 1 | Ukraine	| 1 |
+| Finland		| 9 | Macedonia		| 5 |
+| France		| 25 | Moldova		| 7 |
+| Germany		| 33 | Monaco		| 1 |
