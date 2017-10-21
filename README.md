@@ -1,12 +1,14 @@
 # Google IP Hunter
 
-![progress](http://progressed.io/bar/78?title=progress)
+![progress](http://progressed.io/bar/100?title=progress)
 
 This project, GoogleIPHunter, is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC), also with Official IPs.
 
 GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**.
 
 You can check Google's Official GGC Distribution Map here: https://peering.google.com/#/infrastructure
+
+All countries/areas' data had been collected, but still need updates. You can check the tables below.
 
 **Caution: You could fork this project yourself, but please DO NOT distribute these contents to any other sites, or I would delete this repository. Thank you.**
 
@@ -22,7 +24,7 @@ Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogot
 
 Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_continent).
 
-### 1. Asia: 43 Countries/Areas
+### 1. Asia
 
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -44,7 +46,7 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 
 <sup>1</sup> *Most ips of this country couldn't be used due to 404 error (not found).*
 
-### 2. North America: 24 Countries/Areas
+### 2. North America
 
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -57,7 +59,7 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Cayman Islands| 2 | Haiti		| 3 | United States (GGC)| 354 |
 | Costa Rica	| 13 | Honduras		| 8 | U.S. Virgin Islands| 1 |
 
-### 3. South America: 11 Countries/Areas
+### 3. South America
 
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -66,7 +68,7 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Brazil	| 599 | Paraguay	| 5 | Venezuela	| 11 |
 | Chile		| 43 | Peru		| 26 |
 
-### 4. Europe: 41 Countries/Areas
+### 4. Europe
 
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -85,7 +87,7 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | France		| 25 | Moldova		| 7 | Switzerland	| 19 |
 | Germany		| 33 | Monaco		| 1 |
 
-### 5. Africa: 33 Countries/Areas
+### 5. Africa
 | Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Algeria		| 6 | Kenya		| 7 | Rwanda	| 1 |
@@ -99,3 +101,10 @@ Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.
 | Gabon			| 1 | Niger		| 2 | Uganda	| 5 |
 | Ghana			| 5 | Nigeria	| 11 | Zambia	| 1 |
 | Ivory Coast	| 2 | Réunion	| 4 | Zimbabwe	| 4 |
+
+### 6. Oceania
+| Countries & Areas | Total | Countries & Areas | Total | Countries & Areas | Total |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Australia		| 62 | Guam		| 2 | Northern Mariana Islands	| 2 |
+| Fiji			| 4 | New Caledonia	| 1 | Tonga		| 1 |
+| French Polynesia | 1 | New Zealand | 31 | Vanuatu	| 1 |
