@@ -2,13 +2,13 @@
 
 ![progress](http://progressed.io/bar/100?title=progress)
 
-This project, GoogleIPHunter, is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC), also with Official IPs.
+This project 'GoogleIPHunter' is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC).
 
-GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**.
+GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**. IPs with "google.com" and "*.googlevideo.com" certs can be used in GAE like proxies (Goproxy, XX-net etc.).
 
 You can check Google's Official GGC Distribution Map here: https://peering.google.com/#/infrastructure
 
-All countries/areas' data had been collected, but still need updates. You can check the tables below.
+All countries/areas' data had been collected, but updates are needed. You can check the tables below.
 
 **Caution: You could fork this project yourself, but please DO NOT distribute these contents to any other sites, or I would delete this repository. Thank you.**
 
