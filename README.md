@@ -2,19 +2,19 @@
 
 ![progress](http://progressed.io/bar/100?title=progress)
 
+**Note: Since censys.io had already set limits on free users' queries (250 times/month), I couldn't update these data more often. But I would try my best to update them. Sorry for that :(**
+
 This project 'GoogleIPHunter' is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC).
 
-GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**. IPs with "google.com" and "*.googlevideo.com" certs can be used in GAE like proxies (Goproxy, XX-net etc.).
+GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**. ips with those certs above can be used in GAE like proxies (Goproxy, XX-net etc.).
 
 You can check Google's Official GGC Distribution Map here: https://peering.google.com/#/infrastructure
-
-All countries/areas' data had been collected, but updates are needed. You can check the tables below.
 
 **Caution: You could fork this project yourself, but please DO NOT distribute these contents to any other sites, or I would delete this repository. Thank you.**
 
 ## How do you hunt for them?
 
-By online searching.
+https://censys.io
 
 ## How to Use?
 
