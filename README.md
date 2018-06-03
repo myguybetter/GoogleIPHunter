@@ -12,8 +12,8 @@ You can check Google's Official GGC Distribution Map here: https://peering.googl
 
 ## How do you hunt for them?
 
- - Zmap (ip port scanning tool) & checkip.py (for checking Google ip) on my personal servers.
- - https://censys.io
+  - Zmap (ip port scanning tool) & [checkip.py](https://github.com/xyuanmu/checkiptools) (for checking Google ip) on my personal servers. For more info, you can read [this](https://blog.sairai.bid/2018/06/zmap-checkip/) (in Chinese).
+  - https://censys.io
 
 ## How to Use?
 
