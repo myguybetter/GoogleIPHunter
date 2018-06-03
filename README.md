@@ -2,8 +2,6 @@
 
 ![progress](http://progressed.io/bar/100?title=progress)
 
-**Note: Since censys.io had already set limits on free users' queries (250 times/month), I couldn't update these data more often. But I would try my best to update them. Sorry for that :(**
-
 This project 'GoogleIPHunter' is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC).
 
 GGC IPs provide with 3 kinds of certs, including **"google.com (these ones could be applied to hosts)"**, **"*.googlevideo.com"** and **"edgestatic.com"**. ips with those certs above can be used in GAE like proxies (Goproxy, XX-net etc.).
@@ -14,7 +12,8 @@ You can check Google's Official GGC Distribution Map here: https://peering.googl
 
 ## How do you hunt for them?
 
-https://censys.io
+ - Zmap (ip port scanning tool) & checkip.py (for checking Google ip) on my personal servers.
+ - https://censys.io
 
 ## How to Use?
 
