@@ -19,7 +19,7 @@ You can check Google's Official GGC Distribution Map here: https://peering.googl
 
 Try to scan the IP ranges by using multiple IP scanning tools (like gscan, gogotester etc.). Available IPs could be used.
 
-## Current Progress
+## Current Progress (Will be updated soon)
 
 Note: All countries & areas are collected from [wikipedia](https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_by_continent).
 
