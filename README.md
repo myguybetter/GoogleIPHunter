@@ -1,6 +1,6 @@
 # Google IP Hunter
 
-![progress](http://progressed.io/bar/100?title=progress)
+**😀If you'd like to contribute, please *do not* hesitate to make a commit!**
 
 This project 'GoogleIPHunter' is mainly for collecting global google ipv4 addresses. Mostly Google Global Cache IPs (GGC).
 
